@@ -10,7 +10,7 @@
 			"incompatibilities": [],
 			"authors": ["KANA"],
 			"compatible_mod_loader_version": "4.1.0",
-			"compatible_game_version": ["0.8.0.0"],
+			"compatible_game_version": ["0.8.0.3"],
 			"config_defaults": {}
 		}
 	}
